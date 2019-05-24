@@ -18,13 +18,13 @@ tmux sessionごとにgpu番号は統一してる
 # How to use multi server 
     python multi_server/multi_run.py
 
-ambassador.cs.scitec.kobe-u.ac.jp  
+hoge_server
 　　gpu No.0 thread 1 start  
 　　gpu No.0 thread 2 start  
 　　gpu No.1 thread 1 start  
 　　gpu No.1 thread 2 start  
 
-sydney.cs.scitec.kobe-u.ac.jp  
+fuga_server
 　　gpu No.0 thread 1 start  
 　　gpu No.0 thread 2 start  
 　　gpu No.1 thread 1 start  
