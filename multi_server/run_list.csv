@@ -1,0 +1,5 @@
+# "server",      "gpulist",              "thread",           "program_dir",          "pyprogram",        "program_opt"
+#でコメントアウトできるよ
+
+hoge_server,     "[0,1,2]",                     3,        "workspace/hoge",      "./hoge_run.py",       "--pack_session"
+
